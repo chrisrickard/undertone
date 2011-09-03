@@ -1,0 +1,16 @@
+bin\Debug\UnderTone.exe
+bin\Debug\UnderTone.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UnderTone.Form1.resources
+obj\Debug\UnderTone.Properties.Resources.resources
+obj\Debug\UnderTone.csproj.GenerateResource.Cache
+obj\Debug\UnderTone.exe
+obj\Debug\UnderTone.pdb
+bin\Release\UnderTone.exe
+bin\Release\UnderTone.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\UnderTone.Form1.resources
+obj\Release\UnderTone.Properties.Resources.resources
+obj\Release\UnderTone.csproj.GenerateResource.Cache
+obj\Release\UnderTone.exe
+obj\Release\UnderTone.pdb
