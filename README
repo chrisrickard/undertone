@@ -1,0 +1,6 @@
+Experimental prototype demonstrating rendering image pixels as DOM elements.
+
+Includes:
+* Undertone Generator (C#). Converts an image into a JS file. Creates a "utclut" (Undertone colour lookup table) that is used to map the pixels of specific colours onto the screen.
+* undertone.js - renders a utclut into a DOM element
+* index.html - demonstrates Undertone, with sample utclut (of singer/songwriter Laura Jean)
